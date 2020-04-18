@@ -12,13 +12,3 @@ print(x)
 
 # When a program is running, it flows from one step to the next. As programmers, we set up "paths" for program to follow.
 
-# Conditional Steps
-
-x = 5
-if x < 10:
-    print('Smaller')
-if x > 20:
-    print('Bigger')
-
-print('Finish')
-
