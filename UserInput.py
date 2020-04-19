@@ -4,3 +4,8 @@
 
 nam = input('Who are you? ')
 print('Welcome', nam)
+
+inp = input('Europe Floor? ')
+usf = int(inp) + 1
+print('US Floor', usf)
+
