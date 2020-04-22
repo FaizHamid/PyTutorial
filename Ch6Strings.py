@@ -141,3 +141,9 @@ print(zap)
 print(greet)
 print('Hi there'.lower())
 
+# Search and replace
+# the 'replace()' function is like a 'search and replace' operation in a word processor
+# it replaces all occurrences or the 'search string' with 'replacement string'
+greet = 'Hello Bob'
+nstr = greet.replace('Bob', 'Jane')
+print(nstr)
