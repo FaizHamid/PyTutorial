@@ -6,3 +6,10 @@
 # open() returns a "file handle" - a variable used to perform operations on the file
 # Similar to "File -> Open" in a Word Processor
 
+# USING OPEN
+# handle = open(filename, mode)
+# fhand = open('mbox.txt', 'r')
+# returns a handle use to manipulate the file
+# filename is a string
+# mode is option and should be 'r' if we are planning to read the file and 'w' if we want to write the file
+
