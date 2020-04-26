@@ -4,7 +4,7 @@
 from itertools import count
 from pip._vendor.distlib.compat import raw_input
 
-# A word used to read data from a user
+# A word used to read file from a user
 name = input('Enter file: ')
 handle = open(name, 'r')
 

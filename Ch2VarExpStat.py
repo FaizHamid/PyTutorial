@@ -11,7 +11,7 @@ print(98.6)
 
 print("Hello World!")
 
-# VARIABLES - are named place in the memory where a programmer can store data and later retrieve the data using the variable "name".
+# VARIABLES - are named place in the memory where a programmer can store file and later retrieve the file using the variable "name".
 
 # Programmers get to choose the variables. You can change the contents of a variable in the later statement.
 

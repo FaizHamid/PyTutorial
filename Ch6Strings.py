@@ -17,7 +17,7 @@ x = int(str3) + 1
 print(x)
 
 # Reading and Converting
-# we prefer to read data in using 'Strings' and then parse and convert the data as we need
+# we prefer to read file in using 'Strings' and then parse and convert the file as we need
 # This gives us more control over error situations and/or bad user inputs
 # raw input numbers must be 'converted' from Strings.
 
